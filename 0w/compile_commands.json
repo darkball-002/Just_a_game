@@ -1,0 +1,92 @@
+[
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/glad.dir/includes_C.rsp -std=gnu11 -o CMakeFiles\\glad.dir\\H_\\Dev\\api\\glad\\src\\glad.c.obj -c H:\\Dev\\api\\glad\\src\\glad.c",
+  "file": "H:/Dev/api/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/H_/Dev/api/glad/src/glad.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\core\\keyboard.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\core\\keyboard.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/core/keyboard.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/core/keyboard.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\core\\shader.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\core\\shader.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/core/shader.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/core/shader.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\core\\vertex\\vertex.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\core\\vertex\\vertex.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/core/vertex/vertex.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/core/vertex/vertex.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\core\\world.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\core\\world.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/core/world.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/core/world.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\object\\camera.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\object\\camera.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/object/camera.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/object/camera.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\client\\screen\\pause.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\client\\screen\\pause.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/client/screen/pause.c",
+  "output": "CMakeFiles/WindowGame.dir/source/client/screen/pause.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\core\\heap.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\core\\heap.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/core/heap.c",
+  "output": "CMakeFiles/WindowGame.dir/source/core/heap.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\core\\io.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\core\\io.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/core/io.c",
+  "output": "CMakeFiles/WindowGame.dir/source/core/io.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\core\\print.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\core\\print.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/core/print.c",
+  "output": "CMakeFiles/WindowGame.dir/source/core/print.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\core\\string.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\core\\string.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/core/string.c",
+  "output": "CMakeFiles/WindowGame.dir/source/core/string.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\core\\value.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\core\\value.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/core/value.c",
+  "output": "CMakeFiles/WindowGame.dir/source/core/value.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\main.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\main.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/main.c",
+  "output": "CMakeFiles/WindowGame.dir/source/main.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\server\\object\\block.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\server\\object\\block.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/server/object/block.c",
+  "output": "CMakeFiles/WindowGame.dir/source/server/object/block.c.obj"
+},
+{
+  "directory": "H:/Dev/code/c/project/WindowGame/0w/object",
+  "command": "H:\\Dev\\program\\compiler\\gcc\\bin\\clang.exe  @CMakeFiles/WindowGame.dir/includes_C.rsp -std=gnu11 -Wno-incompatible-pointer-types-discards-qualifiers -o CMakeFiles\\WindowGame.dir\\source\\server\\object\\player.c.obj -c H:\\Dev\\code\\c\\project\\WindowGame\\0w\\source\\server\\object\\player.c",
+  "file": "H:/Dev/code/c/project/WindowGame/0w/source/server/object/player.c",
+  "output": "CMakeFiles/WindowGame.dir/source/server/object/player.c.obj"
+}
+]
